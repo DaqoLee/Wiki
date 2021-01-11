@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/DaqoLee/Wiki/</id>
+    <title>Someone's Site Blog</title>
+    <updated>2021-01-11T09:56:33.844Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/DaqoLee/Wiki/"/>
+    <subtitle>Someone's Site Blog</subtitle>
+    <icon>https://github.com/DaqoLee/Wiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第一篇博客]]></title>
+        <id>hello-blog</id>
+        <link href="https://github.com/DaqoLee/Wiki/Wiki/hello-blog"/>
+        <updated>2021-01-11T09:56:33.844Z</updated>
+        <summary type="html"><![CDATA[博客的标题和预览部分]]></summary>
+    </entry>
+</feed>
