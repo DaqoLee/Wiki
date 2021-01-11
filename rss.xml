@@ -2,16 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>Someone's Site Blog</title>
-        <link>https://github.com/DaqoLee/Wiki/</link>
+        <link>http://daqolee.com/</link>
         <description>Someone's Site Blog</description>
-        <lastBuildDate>Mon, 11 Jan 2021 12:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2021 12:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[第一篇博客]]></title>
-            <link>https://github.com/DaqoLee/Wiki/hello-blog</link>
+            <link>http://daqolee.com/hello-blog</link>
             <guid>hello-blog</guid>
-            <pubDate>Mon, 11 Jan 2021 12:38:22 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2021 12:41:36 GMT</pubDate>
             <description><![CDATA[博客的标题和预览部分]]></description>
         </item>
     </channel>
