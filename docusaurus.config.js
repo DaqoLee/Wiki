@@ -6,7 +6,7 @@ module.exports = {
   favicon: 'img/favicon.ico',           // 站点的图标
   
   url: 'https://github.com/DaqoLee/Wiki/', // GitHub 页面的 URL
-  baseUrl: '/Wiki/',       // 项目的基本 URL 设置为 /仓库名/
+  baseUrl: '/',       // 项目的基本 URL 设置为 /仓库名/
   organizationName: 'DaqoLee',            // 设置为 Github 用户名
   projectName: 'Wiki',   // 设置为 Github 仓库名
   
