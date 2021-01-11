@@ -39,9 +39,10 @@ module.exports = {
       // 导航栏上的按钮  按照相应的格式可以创建新的按钮
       items: [
         {
-          to: '/',                   // 要跳转的页面
+          to: '/Blog',                   // 要跳转的页面
           label: 'Blog',                // 按钮名称
-          position: 'left'              // 按钮位于左边还是右边
+					position: 'left',              // 按钮位于左边还是右边
+					activeBasePath: 'Blog',
         },
         
         {
@@ -87,9 +88,10 @@ module.exports = {
         blog: {
           showReadingTime: true,
           path: "./blog",
-          routeBasePath: "/",           // 这里将 blog/ 设置为首页
+          // routeBasePath: "/",           // 这里将 blog/ 设置为首页
         },
         docs: {
+					path: "./docs",
           sidebarPath: require.resolve('./sidebars.js'),
           
           // 修改为自己的链接，在文章底部添加编辑此页面的链接
