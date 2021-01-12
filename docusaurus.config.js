@@ -1,6 +1,6 @@
 module.exports = {
   title: "Daqo's Wiki",              // 站点名称
-  tagline: 'The tagline of this site',  // 站点描述
+  tagline: '随便记一下',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/minions.jfif',           // 站点的图标
@@ -77,7 +77,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Daqo Lee © ${new Date().getFullYear()} | <a href="https://beian.miit.gov.cn"> 粤 ICP 备 19158043 号 - 2 </a> | Built with Docusaurus.`,
     },
   },
   
