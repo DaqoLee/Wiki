@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Daqo's Wiki",              // 站点名称
+  title: "DaqoLee's Wiki",              // 站点名称
   tagline: '随便记一下',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -28,7 +28,7 @@ module.exports = {
     // },
     // 导航栏配置
     navbar: {
-      title: "Daqo's Wiki",                 // 名称
+      title: "DaqoLee's Wiki",                 // 名称
       
       // 设置logo 如果需要可以取消注释  logo文件推荐转为 .svg 格式
       // logo: {
