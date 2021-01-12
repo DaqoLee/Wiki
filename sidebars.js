@@ -1,16 +1,15 @@
 module.exports = {
-
-	readme:[
-		'template',
+	docs: [
+		 "template",
 		{
 			type: "category",
-			label: "搭建知识库",
+			label: "笔记",
 			collapsed: true,
 			items: [
-				'test',
+				"test",
 			],
-		}
-	]
+		},
+	],
 
   // someSidebar: {
   //   readme:[
