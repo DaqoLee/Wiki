@@ -1,9 +1,9 @@
 module.exports = {
-  title: "Someone's Site",              // 站点名称
+  title: "Daqo's Wiki",              // 站点名称
   tagline: 'The tagline of this site',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',           // 站点的图标
+  favicon: 'img/minions.jfif',           // 站点的图标
   
   url: 'https://daqolee.com/', // GitHub 页面的 URL
   baseUrl: '/',       // 项目的基本 URL 设置为 /仓库名/
@@ -28,7 +28,7 @@ module.exports = {
     // },
     // 导航栏配置
     navbar: {
-      title: "Someone's Site",                 // 名称
+      title: "Daqo's Wiki",                 // 名称
       
       // 设置logo 如果需要可以取消注释  logo文件推荐转为 .svg 格式
       // logo: {
