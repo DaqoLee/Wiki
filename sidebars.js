@@ -1,6 +1,6 @@
 module.exports = {
 	docs: [
-		 "template",
+		 "Home",
 		{
 			type: "category",
 			label: "笔记",

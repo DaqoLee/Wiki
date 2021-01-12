@@ -2,7 +2,6 @@
 id: test
 title: 测试文档
 sidebar_label: 测试
-slug: /
 ---
 
 # 一维数组

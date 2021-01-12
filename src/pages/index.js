@@ -8,30 +8,30 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: '没什么用的项目',
+    title: '毕业后',
     imageUrl: 'img/minions10.jpg',
     description: (
       <>
-        这里不会出错了吧
+        
       </>
     ),
 	},
 	
   {
-    title: '测试一下',
+    title: '毕业时',
     imageUrl: 'img/minions9.jpg',
     description: (
       <>
-        原来是编码错了
+        
       </>
     ),
   },
   {
-    title: '有什么用的书籍',
+    title: '毕业前',
     imageUrl: 'img/minions8.jpg',
     description: (
       <>
-        改一下就好了
+        
       </>
     ),
   },
