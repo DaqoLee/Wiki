@@ -88,7 +88,7 @@ module.exports = {
         blog: {
           showReadingTime: true,
           path: "./blog",
-          // routeBasePath: "/",           // 这里将 blog/ 设置为首页
+          // routeBasePath: "/",  // 这里将 blog/ 设置为首页
         },
         docs: {
 					path: "./docs",
