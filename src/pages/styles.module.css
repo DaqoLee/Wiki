@@ -32,7 +32,16 @@
   width: 100%;
 }
 
+
 .featureImage {
   height: 250px;
   width: 250px;
 }
+
+.headImage
+{
+  height: 250px;
+  width: 750px;	
+}
+
+
