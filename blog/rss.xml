@@ -4,14 +4,14 @@
         <title>Daqo's Wiki Blog</title>
         <link>https://daqolee.com/blog</link>
         <description>Daqo's Wiki Blog</description>
-        <lastBuildDate>Tue, 12 Jan 2021 09:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2021 11:59:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[第一篇博客]]></title>
             <link>https://daqolee.com/blog/hello-blog</link>
             <guid>hello-blog</guid>
-            <pubDate>Tue, 12 Jan 2021 09:55:52 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2021 11:59:23 GMT</pubDate>
             <description><![CDATA[一维数组]]></description>
         </item>
     </channel>
