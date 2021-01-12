@@ -3,7 +3,7 @@ module.exports = {
   tagline: '随便记一下',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/minions.jfif',           // 站点的图标
+  favicon: 'img/minions8.1.jpg',           // 站点的图标
   
   url: 'https://daqolee.com/', // GitHub 页面的 URL
   baseUrl: '/',       // 项目的基本 URL 设置为 /仓库名/
