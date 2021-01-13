@@ -43,7 +43,7 @@ module.exports = {
 			label: "项目",
 			collapsed: true,
 			items: [
-				"other/Other",
+				"project/B数显示器",
 			],
 		},
 
