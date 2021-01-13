@@ -1,30 +1,49 @@
 module.exports = {
 	docs: [
 		 "Home",
-		{
+		 {
 			type: "category",
-			label: "软件",
+			label: "笔记",
 			collapsed: true,
 			items: [
-				"software/test",
+				{
+					type: "category",
+					label: "软件",
+					collapsed: true,
+					items: [
+						"software/test",
+					],
+				},
+		
+				{
+					type: "category",
+					label: "电路",
+					collapsed: true,
+					items: [
+						"pcb/AltiumDesigner",
+					],
+				},
+		
+				{
+					type: "category",
+					label: "机械",
+					collapsed: true,
+					items: [
+						"machine/SolidWorks",
+					],
+				},
+
+				
+		
 			],
 		},
 
 		{
 			type: "category",
-			label: "电路",
+			label: "项目",
 			collapsed: true,
 			items: [
-				"pcb/AltiumDesigner",
-			],
-		},
-
-		{
-			type: "category",
-			label: "机械",
-			collapsed: true,
-			items: [
-				"machine/SolidWorks",
+				"other/Other",
 			],
 		},
 
