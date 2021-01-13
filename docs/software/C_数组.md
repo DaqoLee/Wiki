@@ -1,7 +1,7 @@
 ---
-id: test
-title: 测试文档
-sidebar_label: 测试
+id: C_数组
+title: 没错 2[arr] == arr[2]
+sidebar_label: C_数组
 ---
 
 # 一维数组
@@ -111,14 +111,9 @@ int arr[5];//编译器会给数组分配内存
 int *p;//编译器不会分配内存
 ```
 
-![数组](https://img-blog.csdnimg.cn/20191213184142646.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0RhcW9MZWU=,size_16,color_FFFFFF,t_70)
+![数组](https://img-blog.csdnimg.cn/20191213184142646.png )
 
-**arr**
-&nbsp;  | &nbsp; | &nbsp;|&nbsp;|&nbsp;
----|---|---|--- |----
-**b**
-?|
----|---|---|--- |----
+
 
 因此，表达式 **\*arr** 是完全合法的，但表达式 **\*b** 却是非法的，**\*b** 访问的是一个不确定的位置。
 

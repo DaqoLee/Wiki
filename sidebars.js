@@ -11,7 +11,7 @@ module.exports = {
 					label: "软件",
 					collapsed: true,
 					items: [
-						"software/test",
+						"software/C_数组",
 					],
 				},
 		
@@ -57,7 +57,7 @@ module.exports = {
 					label: "传记",
 					collapsed: true,
 					items: [
-						"digest/乔布斯传",
+						"digest/史蒂夫·乔布斯传",
 					],
 				},
 				{
@@ -65,7 +65,9 @@ module.exports = {
 					label: "管理",
 					collapsed: true,
 					items: [
-						"digest/乔布斯传",
+						"digest/软件管理沉思录",
+						"digest/六顶思考帽",
+						"digest/原则",
 					],
 				},
 				{
@@ -73,7 +75,8 @@ module.exports = {
 					label: "经济",
 					collapsed: true,
 					items: [
-						"digest/乔布斯传",
+						"digest/小岛经济学",
+						"digest/贫穷的本质",
 					],
 				},
 				{
@@ -81,7 +84,9 @@ module.exports = {
 					label: "社科",
 					collapsed: true,
 					items: [
-						"digest/乔布斯传",
+						"digest/人类简史",
+						"digest/时间简史",
+						"digest/未来简史",
 					],
 				},
 			],
