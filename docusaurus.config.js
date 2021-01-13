@@ -93,11 +93,15 @@ module.exports = {
         docs: {
 					path: "./docs",
           sidebarPath: require.resolve('./sidebars.js'),
-          
           // 修改为自己的链接，在文章底部添加编辑此页面的链接
           // editUrl:
           //   'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
+				},
+				
+				digest: {
+					path: "./digest",
+					sidebarPath: require.resolve('./sidebars.js'),
+				},
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

@@ -1,6 +1,6 @@
 ---
 id: Home
-title: Daqo's Wiki
+title: DaqoLee's Wiki
 sidebar_label: Home
 slug: /
 ---
