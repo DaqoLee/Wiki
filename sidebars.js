@@ -44,6 +44,7 @@ module.exports = {
 			collapsed: true,
 			items: [
 				"project/B数显示器",
+				"project/小改体重秤",
 			],
 		},
 
